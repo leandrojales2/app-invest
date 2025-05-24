@@ -1,4 +1,4 @@
-# Simulador de Investimento - Jales Invest
+# Simulador de Investimento - APP Invest
 
 Este projeto é um simulador de investimento que permite aos usuários planejar e visualizar projeções de investimento com base em diferentes cenários financeiros. O objetivo é fornecer uma ferramenta de análise para auxiliar na tomada de decisões sobre investimentos mensais.
 
